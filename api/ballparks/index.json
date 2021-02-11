@@ -1,0 +1,2042 @@
+[
+ {
+  "park.key": "ALB01",
+  "park.name": "Riverside Park",
+  "park.alias": "",
+  "city": "Albany",
+  "state": "NY",
+  "country": "US"
+ },
+ {
+  "park.key": "ALT01",
+  "park.name": "Columbia Park",
+  "park.alias": "",
+  "city": "Altoona",
+  "state": "PA",
+  "country": "US"
+ },
+ {
+  "park.key": "ANA01",
+  "park.name": "Angel Stadium of Anaheim",
+  "park.alias": "Edison Field; Anaheim Stadium",
+  "city": "Anaheim",
+  "state": "CA",
+  "country": "US"
+ },
+ {
+  "park.key": "ARL01",
+  "park.name": "Arlington Stadium",
+  "park.alias": "",
+  "city": "Arlington",
+  "state": "TX",
+  "country": "US"
+ },
+ {
+  "park.key": "ARL02",
+  "park.name": "Rangers Ballpark in Arlington",
+  "park.alias": "The Ballpark in Arlington; Ameriquest Fl",
+  "city": "Arlington",
+  "state": "TX",
+  "country": "US"
+ },
+ {
+  "park.key": "ATL01",
+  "park.name": "Atlanta-Fulton County Stadium",
+  "park.alias": "",
+  "city": "Atlanta",
+  "state": "GA",
+  "country": "US"
+ },
+ {
+  "park.key": "ATL02",
+  "park.name": "Turner Field",
+  "park.alias": "",
+  "city": "Atlanta",
+  "state": "GA",
+  "country": "US"
+ },
+ {
+  "park.key": "ATL03",
+  "park.name": "Suntrust Park",
+  "park.alias": "",
+  "city": "Atlanta",
+  "state": "GA",
+  "country": "US"
+ },
+ {
+  "park.key": "BAL01",
+  "park.name": "Madison Avenue Grounds",
+  "park.alias": "",
+  "city": "Baltimore",
+  "state": "MD",
+  "country": "US"
+ },
+ {
+  "park.key": "BAL02",
+  "park.name": "Newington Park",
+  "park.alias": "",
+  "city": "Baltimore",
+  "state": "MD",
+  "country": "US"
+ },
+ {
+  "park.key": "BAL03",
+  "park.name": "Oriole Park I",
+  "park.alias": "",
+  "city": "Baltimore",
+  "state": "MD",
+  "country": "US"
+ },
+ {
+  "park.key": "BAL04",
+  "park.name": "Belair Lot",
+  "park.alias": "",
+  "city": "Baltimore",
+  "state": "MD",
+  "country": "US"
+ },
+ {
+  "park.key": "BAL05",
+  "park.name": "Monumental Park",
+  "park.alias": "",
+  "city": "Baltimore",
+  "state": "MD",
+  "country": "US"
+ },
+ {
+  "park.key": "BAL06",
+  "park.name": "Oriole Park II",
+  "park.alias": "",
+  "city": "Baltimore",
+  "state": "MD",
+  "country": "US"
+ },
+ {
+  "park.key": "BAL07",
+  "park.name": "Oriole Park III",
+  "park.alias": "",
+  "city": "Baltimore",
+  "state": "MD",
+  "country": "US"
+ },
+ {
+  "park.key": "BAL09",
+  "park.name": "Oriole Park IV",
+  "park.alias": "American League Park",
+  "city": "Baltimore",
+  "state": "MD",
+  "country": "US"
+ },
+ {
+  "park.key": "BAL10",
+  "park.name": "Terrapin Park",
+  "park.alias": "Oriole Park V",
+  "city": "Baltimore",
+  "state": "MD",
+  "country": "US"
+ },
+ {
+  "park.key": "BAL11",
+  "park.name": "Memorial Stadium",
+  "park.alias": "",
+  "city": "Baltimore",
+  "state": "MD",
+  "country": "US"
+ },
+ {
+  "park.key": "BAL12",
+  "park.name": "Oriole Park at Camden Yards",
+  "park.alias": "",
+  "city": "Baltimore",
+  "state": "MD",
+  "country": "US"
+ },
+ {
+  "park.key": "BOS01",
+  "park.name": "South End Grounds I",
+  "park.alias": "Walpole Street Grounds",
+  "city": "Boston",
+  "state": "MA",
+  "country": "US"
+ },
+ {
+  "park.key": "BOS02",
+  "park.name": "Dartmouth Grounds",
+  "park.alias": "Union Park",
+  "city": "Boston",
+  "state": "MA",
+  "country": "US"
+ },
+ {
+  "park.key": "BOS03",
+  "park.name": "South End Grounds II",
+  "park.alias": "",
+  "city": "Boston",
+  "state": "MA",
+  "country": "US"
+ },
+ {
+  "park.key": "BOS04",
+  "park.name": "Congress Street Grounds",
+  "park.alias": "",
+  "city": "Boston",
+  "state": "MA",
+  "country": "US"
+ },
+ {
+  "park.key": "BOS05",
+  "park.name": "South End Grounds III",
+  "park.alias": "",
+  "city": "Boston",
+  "state": "MA",
+  "country": "US"
+ },
+ {
+  "park.key": "BOS06",
+  "park.name": "Huntington Avenue Baseball Grounds",
+  "park.alias": "",
+  "city": "Boston",
+  "state": "MA",
+  "country": "US"
+ },
+ {
+  "park.key": "BOS07",
+  "park.name": "Fenway Park",
+  "park.alias": "",
+  "city": "Boston",
+  "state": "MA",
+  "country": "US"
+ },
+ {
+  "park.key": "BOS08",
+  "park.name": "Braves Field",
+  "park.alias": "Bee Hive",
+  "city": "Boston",
+  "state": "MA",
+  "country": "US"
+ },
+ {
+  "park.key": "BUF01",
+  "park.name": "Riverside Grounds",
+  "park.alias": "",
+  "city": "Buffalo",
+  "state": "NY",
+  "country": "US"
+ },
+ {
+  "park.key": "BUF02",
+  "park.name": "Olympic Park I",
+  "park.alias": "",
+  "city": "Buffalo",
+  "state": "NY",
+  "country": "US"
+ },
+ {
+  "park.key": "BUF03",
+  "park.name": "Olympic Park II",
+  "park.alias": "",
+  "city": "Buffalo",
+  "state": "NY",
+  "country": "US"
+ },
+ {
+  "park.key": "BUF04",
+  "park.name": "International Fair Association Grounds",
+  "park.alias": "Federal League Park",
+  "city": "Buffalo",
+  "state": "NY",
+  "country": "US"
+ },
+ {
+  "park.key": "CAN01",
+  "park.name": "Mahaffey Park",
+  "park.alias": "Pastime Park",
+  "city": "Canton",
+  "state": "OH",
+  "country": "US"
+ },
+ {
+  "park.key": "CAN02",
+  "park.name": "Pastime Park",
+  "park.alias": "",
+  "city": "Canton",
+  "state": "OH",
+  "country": "US"
+ },
+ {
+  "park.key": "CHI01",
+  "park.name": "Lake Front Park I",
+  "park.alias": "Union Base-ball Grounds",
+  "city": "Chicago",
+  "state": "IL",
+  "country": "US"
+ },
+ {
+  "park.key": "CHI02",
+  "park.name": "23rd Street Park",
+  "park.alias": "",
+  "city": "Chicago",
+  "state": "IL",
+  "country": "US"
+ },
+ {
+  "park.key": "CHI03",
+  "park.name": "Lake Front Park II",
+  "park.alias": "",
+  "city": "Chicago",
+  "state": "IL",
+  "country": "US"
+ },
+ {
+  "park.key": "CHI05",
+  "park.name": "South Side Park I",
+  "park.alias": "Cricket Club Grounds; Union Grounds",
+  "city": "Chicago",
+  "state": "IL",
+  "country": "US"
+ },
+ {
+  "park.key": "CHI06",
+  "park.name": "West Side Park",
+  "park.alias": "",
+  "city": "Chicago",
+  "state": "IL",
+  "country": "US"
+ },
+ {
+  "park.key": "CHI07",
+  "park.name": "South Side Park II",
+  "park.alias": "",
+  "city": "Chicago",
+  "state": "IL",
+  "country": "US"
+ },
+ {
+  "park.key": "CHI08",
+  "park.name": "West Side Grounds",
+  "park.alias": "",
+  "city": "Chicago",
+  "state": "IL",
+  "country": "US"
+ },
+ {
+  "park.key": "CHI09",
+  "park.name": "South Side Park III",
+  "park.alias": "",
+  "city": "Chicago",
+  "state": "IL",
+  "country": "US"
+ },
+ {
+  "park.key": "CHI10",
+  "park.name": "Comiskey Park I",
+  "park.alias": "White Sox Park",
+  "city": "Chicago",
+  "state": "IL",
+  "country": "US"
+ },
+ {
+  "park.key": "CHI11",
+  "park.name": "Wrigley Field",
+  "park.alias": "Weeghman Park; Cubs Park",
+  "city": "Chicago",
+  "state": "IL",
+  "country": "US"
+ },
+ {
+  "park.key": "CHI12",
+  "park.name": "Guaranteed Rate Field",
+  "park.alias": "U.S. Cellular Field;White Sox Park; Comiskey Park II",
+  "city": "Chicago",
+  "state": "IL",
+  "country": "US"
+ },
+ {
+  "park.key": "CIN01",
+  "park.name": "Lincoln Park Grounds",
+  "park.alias": "Union Cricket Club Grounds",
+  "city": "Cincinnati",
+  "state": "OH",
+  "country": "US"
+ },
+ {
+  "park.key": "CIN02",
+  "park.name": "Avenue Grounds",
+  "park.alias": "",
+  "city": "Cincinnati",
+  "state": "OH",
+  "country": "US"
+ },
+ {
+  "park.key": "CIN03",
+  "park.name": "Bank Street Grounds",
+  "park.alias": "",
+  "city": "Cincinnati",
+  "state": "OH",
+  "country": "US"
+ },
+ {
+  "park.key": "CIN04",
+  "park.name": "League Park I",
+  "park.alias": "",
+  "city": "Cincinnati",
+  "state": "OH",
+  "country": "US"
+ },
+ {
+  "park.key": "CIN05",
+  "park.name": "League Park II",
+  "park.alias": "",
+  "city": "Cincinnati",
+  "state": "OH",
+  "country": "US"
+ },
+ {
+  "park.key": "CIN06",
+  "park.name": "Palace of the Fans",
+  "park.alias": "League Park III",
+  "city": "Cincinnati",
+  "state": "OH",
+  "country": "US"
+ },
+ {
+  "park.key": "CIN07",
+  "park.name": "Crosley Field",
+  "park.alias": "Redland Field",
+  "city": "Cincinnati",
+  "state": "OH",
+  "country": "US"
+ },
+ {
+  "park.key": "CIN08",
+  "park.name": "Cinergy Field",
+  "park.alias": "Riverfront Stadium",
+  "city": "Cincinnati",
+  "state": "OH",
+  "country": "US"
+ },
+ {
+  "park.key": "CIN09",
+  "park.name": "Great American Ballpark",
+  "park.alias": "",
+  "city": "Cincinnati",
+  "state": "OH",
+  "country": "US"
+ },
+ {
+  "park.key": "CLE01",
+  "park.name": "National Association Grounds",
+  "park.alias": "",
+  "city": "Cleveland",
+  "state": "OH",
+  "country": "US"
+ },
+ {
+  "park.key": "CLE02",
+  "park.name": "League Park I",
+  "park.alias": "Kennard Street Park",
+  "city": "Cleveland",
+  "state": "OH",
+  "country": "US"
+ },
+ {
+  "park.key": "CLE03",
+  "park.name": "League Park II",
+  "park.alias": "American Association Park",
+  "city": "Cleveland",
+  "state": "OH",
+  "country": "US"
+ },
+ {
+  "park.key": "CLE04",
+  "park.name": "Brotherhood Park",
+  "park.alias": "Players League Park",
+  "city": "Cleveland",
+  "state": "OH",
+  "country": "US"
+ },
+ {
+  "park.key": "CLE05",
+  "park.name": "League Park III",
+  "park.alias": "National League Park III",
+  "city": "Cleveland",
+  "state": "OH",
+  "country": "US"
+ },
+ {
+  "park.key": "CLE06",
+  "park.name": "League Park IV",
+  "park.alias": "Dunn Field",
+  "city": "Cleveland",
+  "state": "OH",
+  "country": "US"
+ },
+ {
+  "park.key": "CLE07",
+  "park.name": "Cleveland Stadium",
+  "park.alias": "Municipal Stadium",
+  "city": "Cleveland",
+  "state": "OH",
+  "country": "US"
+ },
+ {
+  "park.key": "CLE08",
+  "park.name": "Progressive Field",
+  "park.alias": "Jacobs Field",
+  "city": "Cleveland",
+  "state": "OH",
+  "country": "US"
+ },
+ {
+  "park.key": "CLE09",
+  "park.name": "Cedar Avenue Driving Park",
+  "park.alias": "",
+  "city": "Cleveland",
+  "state": "OH",
+  "country": "US"
+ },
+ {
+  "park.key": "CLL01",
+  "park.name": "Euclid Beach Park",
+  "park.alias": "",
+  "city": "Collinwood",
+  "state": "OH",
+  "country": "US"
+ },
+ {
+  "park.key": "COL01",
+  "park.name": "Recreation Park I",
+  "park.alias": "",
+  "city": "Columbus",
+  "state": "OH",
+  "country": "US"
+ },
+ {
+  "park.key": "COL02",
+  "park.name": "Recreation Park II",
+  "park.alias": "",
+  "city": "Columbus",
+  "state": "OH",
+  "country": "US"
+ },
+ {
+  "park.key": "COL03",
+  "park.name": "Neil Park I",
+  "park.alias": "",
+  "city": "Columbus",
+  "state": "OH",
+  "country": "US"
+ },
+ {
+  "park.key": "COL04",
+  "park.name": "Neil Park II",
+  "park.alias": "",
+  "city": "Columbus",
+  "state": "OH",
+  "country": "US"
+ },
+ {
+  "park.key": "COV01",
+  "park.name": "Star Baseball Park",
+  "park.alias": "",
+  "city": "Covington",
+  "state": "KY",
+  "country": "US"
+ },
+ {
+  "park.key": "DAY01",
+  "park.name": "Fairview Park",
+  "park.alias": "",
+  "city": "Dayton",
+  "state": "OH",
+  "country": "US"
+ },
+ {
+  "park.key": "DEN01",
+  "park.name": "Mile High Stadium",
+  "park.alias": "",
+  "city": "Denver",
+  "state": "CO",
+  "country": "US"
+ },
+ {
+  "park.key": "DEN02",
+  "park.name": "Coors Field",
+  "park.alias": "",
+  "city": "Denver",
+  "state": "CO",
+  "country": "US"
+ },
+ {
+  "park.key": "DET01",
+  "park.name": "Recreation Park",
+  "park.alias": "",
+  "city": "Detroit",
+  "state": "MI",
+  "country": "US"
+ },
+ {
+  "park.key": "DET02",
+  "park.name": "Bennett Park",
+  "park.alias": "",
+  "city": "Detroit",
+  "state": "MI",
+  "country": "US"
+ },
+ {
+  "park.key": "DET03",
+  "park.name": "Burns Park",
+  "park.alias": "West End Park",
+  "city": "Detroit",
+  "state": "MI",
+  "country": "US"
+ },
+ {
+  "park.key": "DET04",
+  "park.name": "Tiger Stadium",
+  "park.alias": "Navin Field; Briggs Stadium",
+  "city": "Detroit",
+  "state": "MI",
+  "country": "US"
+ },
+ {
+  "park.key": "DET05",
+  "park.name": "Comerica Park",
+  "park.alias": "",
+  "city": "Detroit",
+  "state": "MI",
+  "country": "US"
+ },
+ {
+  "park.key": "DOV01",
+  "park.name": "Fairview Park Fair Grounds",
+  "park.alias": "",
+  "city": "Dover",
+  "state": "DE",
+  "country": "US"
+ },
+ {
+  "park.key": "ELM01",
+  "park.name": "Maple Avenue Driving Park",
+  "park.alias": "",
+  "city": "Elmira",
+  "state": "NY",
+  "country": "US"
+ },
+ {
+  "park.key": "FOR01",
+  "park.name": "Grand Duchess",
+  "park.alias": "Hamilton Field",
+  "city": "Fort Wayne",
+  "state": "IN",
+  "country": "US"
+ },
+ {
+  "park.key": "FOR03",
+  "park.name": "Jailhouse Flats",
+  "park.alias": "",
+  "city": "Fort Wayne",
+  "state": "IN",
+  "country": "US"
+ },
+ {
+  "park.key": "FTB01",
+  "park.name": "Fort Bragg Field",
+  "park.alias": "",
+  "city": "Fort Bragg",
+  "state": "NC",
+  "country": "US"
+ },
+ {
+  "park.key": "GEA01",
+  "park.name": "Geauga Lake Grounds",
+  "park.alias": "Beyerle's Park",
+  "city": "Geauga Lake",
+  "state": "OH",
+  "country": "US"
+ },
+ {
+  "park.key": "GLO01",
+  "park.name": "Gloucester Point Grounds",
+  "park.alias": "",
+  "city": "Gloucester City",
+  "state": "NJ",
+  "country": "US"
+ },
+ {
+  "park.key": "GLO02",
+  "park.name": "Gloucester Fireworks Park",
+  "park.alias": "",
+  "city": "Gloucester City",
+  "state": "NJ",
+  "country": "US"
+ },
+ {
+  "park.key": "GRA01",
+  "park.name": "Ramona Park",
+  "park.alias": "",
+  "city": "Grand Rapids",
+  "state": "MI",
+  "country": "US"
+ },
+ {
+  "park.key": "HAR01",
+  "park.name": "Harrison Field",
+  "park.alias": "",
+  "city": "Harrison",
+  "state": "NJ",
+  "country": "US"
+ },
+ {
+  "park.key": "HOB01",
+  "park.name": "Elysian Field",
+  "park.alias": "",
+  "city": "Hoboken",
+  "state": "NJ",
+  "country": "US"
+ },
+ {
+  "park.key": "HON01",
+  "park.name": "Aloha Stadium",
+  "park.alias": "",
+  "city": "Honolulu",
+  "state": "HI",
+  "country": "US"
+ },
+ {
+  "park.key": "HOU01",
+  "park.name": "Colt Stadium",
+  "park.alias": "",
+  "city": "Houston",
+  "state": "TX",
+  "country": "US"
+ },
+ {
+  "park.key": "HOU02",
+  "park.name": "Astrodome",
+  "park.alias": "",
+  "city": "Houston",
+  "state": "TX",
+  "country": "US"
+ },
+ {
+  "park.key": "HOU03",
+  "park.name": "Minute Maid Park",
+  "park.alias": "Enron Field; Astros Field",
+  "city": "Houston",
+  "state": "TX",
+  "country": "US"
+ },
+ {
+  "park.key": "HRT01",
+  "park.name": "Hartford Ball Club Grounds",
+  "park.alias": "",
+  "city": "Hartford",
+  "state": "CT",
+  "country": "US"
+ },
+ {
+  "park.key": "HRT02",
+  "park.name": "Hartford Trotting Park",
+  "park.alias": "",
+  "city": "Hartford",
+  "state": "CT",
+  "country": "US"
+ },
+ {
+  "park.key": "IND01",
+  "park.name": "South Street Park",
+  "park.alias": "",
+  "city": "Indianapolis",
+  "state": "IN",
+  "country": "US"
+ },
+ {
+  "park.key": "IND02",
+  "park.name": "Seventh Street Park I",
+  "park.alias": "",
+  "city": "Indianapolis",
+  "state": "IN",
+  "country": "US"
+ },
+ {
+  "park.key": "IND03",
+  "park.name": "Bruce Grounds",
+  "park.alias": "",
+  "city": "Indianapolis",
+  "state": "IN",
+  "country": "US"
+ },
+ {
+  "park.key": "IND04",
+  "park.name": "Seventh Street Park II",
+  "park.alias": "",
+  "city": "Indianapolis",
+  "state": "IN",
+  "country": "US"
+ },
+ {
+  "park.key": "IND05",
+  "park.name": "Seventh Street Park III",
+  "park.alias": "",
+  "city": "Indianapolis",
+  "state": "IN",
+  "country": "US"
+ },
+ {
+  "park.key": "IND06",
+  "park.name": "Indianapolis Park",
+  "park.alias": "",
+  "city": "Indianapolis",
+  "state": "IN",
+  "country": "US"
+ },
+ {
+  "park.key": "IND07",
+  "park.name": "Federal League Park",
+  "park.alias": "Washington Park",
+  "city": "Indianapolis",
+  "state": "IN",
+  "country": "US"
+ },
+ {
+  "park.key": "IRO01",
+  "park.name": "Windsor Beach",
+  "park.alias": "",
+  "city": "Irondequoit",
+  "state": "NY",
+  "country": "US"
+ },
+ {
+  "park.key": "JER01",
+  "park.name": "Oakdale Park",
+  "park.alias": "",
+  "city": "Jersey City",
+  "state": "NJ",
+  "country": "US"
+ },
+ {
+  "park.key": "JER02",
+  "park.name": "Roosevelt Stadium",
+  "park.alias": "",
+  "city": "Jersey City",
+  "state": "NJ",
+  "country": "US"
+ },
+ {
+  "park.key": "KAN01",
+  "park.name": "Athletic Park",
+  "park.alias": "",
+  "city": "Kansas City",
+  "state": "MO",
+  "country": "US"
+ },
+ {
+  "park.key": "KAN02",
+  "park.name": "Association Park",
+  "park.alias": "",
+  "city": "Kansas City",
+  "state": "MO",
+  "country": "US"
+ },
+ {
+  "park.key": "KAN03",
+  "park.name": "Exposition Park",
+  "park.alias": "",
+  "city": "Kansas City",
+  "state": "MO",
+  "country": "US"
+ },
+ {
+  "park.key": "KAN04",
+  "park.name": "Gordon and Koppel Field",
+  "park.alias": "",
+  "city": "Kansas City",
+  "state": "MO",
+  "country": "US"
+ },
+ {
+  "park.key": "KAN05",
+  "park.name": "Municipal Stadium",
+  "park.alias": "",
+  "city": "Kansas City",
+  "state": "MO",
+  "country": "US"
+ },
+ {
+  "park.key": "KAN06",
+  "park.name": "Kauffman Stadium",
+  "park.alias": "Royals Stadium",
+  "city": "Kansas City",
+  "state": "MO",
+  "country": "US"
+ },
+ {
+  "park.key": "KEO01",
+  "park.name": "Perry Park",
+  "park.alias": "Walte's Pasture",
+  "city": "Keokuk",
+  "state": "IA",
+  "country": "US"
+ },
+ {
+  "park.key": "LAS01",
+  "park.name": "Cashman Field",
+  "park.alias": "",
+  "city": "Las Vegas",
+  "state": "NV",
+  "country": "US"
+ },
+ {
+  "park.key": "LBV01",
+  "park.name": "The Ballpark at Disney's Wide World",
+  "park.alias": "",
+  "city": "Lake Buena Vista",
+  "state": "FL",
+  "country": "US"
+ },
+ {
+  "park.key": "LON01",
+  "park.name": "London Stadium",
+  "park.alias": "",
+  "city": "London",
+  "state": "ENG",
+  "country": "UK"
+ },
+ {
+  "park.key": "LOS01",
+  "park.name": "Los Angeles Memorial Coliseum",
+  "park.alias": "",
+  "city": "Los Angeles",
+  "state": "CA",
+  "country": "US"
+ },
+ {
+  "park.key": "LOS02",
+  "park.name": "Wrigley Field",
+  "park.alias": "",
+  "city": "Los Angeles",
+  "state": "CA",
+  "country": "US"
+ },
+ {
+  "park.key": "LOS03",
+  "park.name": "Dodger Stadium",
+  "park.alias": "Chavez Ravine",
+  "city": "Los Angeles",
+  "state": "CA",
+  "country": "US"
+ },
+ {
+  "park.key": "LOU01",
+  "park.name": "Louisville Baseball Park",
+  "park.alias": "",
+  "city": "Louisville",
+  "state": "KY",
+  "country": "US"
+ },
+ {
+  "park.key": "LOU02",
+  "park.name": "Eclipse Park I",
+  "park.alias": "",
+  "city": "Louisville",
+  "state": "KY",
+  "country": "US"
+ },
+ {
+  "park.key": "LOU03",
+  "park.name": "Eclipse Park II",
+  "park.alias": "",
+  "city": "Louisville",
+  "state": "KY",
+  "country": "US"
+ },
+ {
+  "park.key": "LOU04",
+  "park.name": "Eclipse Park III",
+  "park.alias": "",
+  "city": "Louisville",
+  "state": "KY",
+  "country": "US"
+ },
+ {
+  "park.key": "LUD01",
+  "park.name": "Ludlow Baseball Park",
+  "park.alias": "",
+  "city": "Ludlow",
+  "state": "KY",
+  "country": "US"
+ },
+ {
+  "park.key": "MAS01",
+  "park.name": "Long Island Grounds",
+  "park.alias": "",
+  "city": "Maspeth",
+  "state": "NY",
+  "country": "US"
+ },
+ {
+  "park.key": "MIA01",
+  "park.name": "Sun Life Stadium",
+  "park.alias": "JoeRobbie; ProPlayer; Dolphin; LandShark",
+  "city": "Miami",
+  "state": "FL",
+  "country": "US"
+ },
+ {
+  "park.key": "MIA02",
+  "park.name": "Marlins Park",
+  "park.alias": "",
+  "city": "Miami",
+  "state": "FL",
+  "country": "US"
+ },
+ {
+  "park.key": "MID01",
+  "park.name": "Mansfield Club Grounds",
+  "park.alias": "",
+  "city": "Middletown",
+  "state": "CT",
+  "country": "US"
+ },
+ {
+  "park.key": "MIL01",
+  "park.name": "Milwaukee Base-Ball Grounds",
+  "park.alias": "",
+  "city": "Milwaukee",
+  "state": "WI",
+  "country": "US"
+ },
+ {
+  "park.key": "MIL02",
+  "park.name": "Wright Street Grounds",
+  "park.alias": "",
+  "city": "Milwaukee",
+  "state": "WI",
+  "country": "US"
+ },
+ {
+  "park.key": "MIL03",
+  "park.name": "Athletic Park",
+  "park.alias": "",
+  "city": "Milwaukee",
+  "state": "WI",
+  "country": "US"
+ },
+ {
+  "park.key": "MIL04",
+  "park.name": "Lloyd Street Grounds",
+  "park.alias": "",
+  "city": "Milwaukee",
+  "state": "WI",
+  "country": "US"
+ },
+ {
+  "park.key": "MIL05",
+  "park.name": "County Stadium",
+  "park.alias": "",
+  "city": "Milwaukee",
+  "state": "WI",
+  "country": "US"
+ },
+ {
+  "park.key": "MIL06",
+  "park.name": "Miller Park",
+  "park.alias": "",
+  "city": "Milwaukee",
+  "state": "WI",
+  "country": "US"
+ },
+ {
+  "park.key": "MIN01",
+  "park.name": "Athletic Park",
+  "park.alias": "",
+  "city": "Minneapolis",
+  "state": "MN",
+  "country": "US"
+ },
+ {
+  "park.key": "MIN02",
+  "park.name": "Metropolitan Stadium",
+  "park.alias": "",
+  "city": "Bloomington",
+  "state": "MN",
+  "country": "US"
+ },
+ {
+  "park.key": "MIN03",
+  "park.name": "Hubert H. Humphrey Metrodome",
+  "park.alias": "",
+  "city": "Minneapolis",
+  "state": "MN",
+  "country": "US"
+ },
+ {
+  "park.key": "MIN04",
+  "park.name": "Target Field",
+  "park.alias": "",
+  "city": "Minneapolis",
+  "state": "MN",
+  "country": "US"
+ },
+ {
+  "park.key": "MNT01",
+  "park.name": "Estadio Monterrey",
+  "park.alias": "",
+  "city": "Monterrey",
+  "state": "Nuevo Leon",
+  "country": "MX"
+ },
+ {
+  "park.key": "MON01",
+  "park.name": "Parc Jarry",
+  "park.alias": "Jarry Park",
+  "city": "Montreal",
+  "state": "QC",
+  "country": "CA"
+ },
+ {
+  "park.key": "MON02",
+  "park.name": "Stade Olympique",
+  "park.alias": "Olympic Stadium",
+  "city": "Montreal",
+  "state": "QC",
+  "country": "CA"
+ },
+ {
+  "park.key": "NEW01",
+  "park.name": "Howard Avenue Grounds",
+  "park.alias": "Brewster Park",
+  "city": "New Haven",
+  "state": "CT",
+  "country": "US"
+ },
+ {
+  "park.key": "NEW02",
+  "park.name": "Hamilton Park",
+  "park.alias": "",
+  "city": "New Haven",
+  "state": "CT",
+  "country": "US"
+ },
+ {
+  "park.key": "NEW03",
+  "park.name": "Geauga Lake Grounds",
+  "park.alias": "Beyerle's Park",
+  "city": "Geauga Lake",
+  "state": "OH",
+  "country": "US"
+ },
+ {
+  "park.key": "NWK01",
+  "park.name": "Wiedenmeyer's Park",
+  "park.alias": "",
+  "city": "Newark",
+  "state": "NJ",
+  "country": "US"
+ },
+ {
+  "park.key": "NYC01",
+  "park.name": "Union Grounds",
+  "park.alias": "",
+  "city": "Brooklyn",
+  "state": "NY",
+  "country": "US"
+ },
+ {
+  "park.key": "NYC02",
+  "park.name": "Capitoline Grounds",
+  "park.alias": "",
+  "city": "Brooklyn",
+  "state": "NY",
+  "country": "US"
+ },
+ {
+  "park.key": "NYC03",
+  "park.name": "Polo Grounds I (Southeast Diamond)",
+  "park.alias": "",
+  "city": "New York",
+  "state": "NY",
+  "country": "US"
+ },
+ {
+  "park.key": "NYC04",
+  "park.name": "Polo Grounds II (Southwest Diamond)",
+  "park.alias": "",
+  "city": "New York",
+  "state": "NY",
+  "country": "US"
+ },
+ {
+  "park.key": "NYC05",
+  "park.name": "Washington Park I",
+  "park.alias": "",
+  "city": "Brooklyn",
+  "state": "NY",
+  "country": "US"
+ },
+ {
+  "park.key": "NYC06",
+  "park.name": "Metropolitan Park",
+  "park.alias": "",
+  "city": "New York",
+  "state": "NY",
+  "country": "US"
+ },
+ {
+  "park.key": "NYC07",
+  "park.name": "Grauer's Ridgewood Park",
+  "park.alias": "Ridgewood Park I",
+  "city": "Queens",
+  "state": "NY",
+  "country": "US"
+ },
+ {
+  "park.key": "NYC08",
+  "park.name": "Washington Park II",
+  "park.alias": "",
+  "city": "Brooklyn",
+  "state": "NY",
+  "country": "US"
+ },
+ {
+  "park.key": "NYC09",
+  "park.name": "Polo Grounds III",
+  "park.alias": "",
+  "city": "New York",
+  "state": "NY",
+  "country": "US"
+ },
+ {
+  "park.key": "NYC10",
+  "park.name": "Polo Grounds IV",
+  "park.alias": "",
+  "city": "New York",
+  "state": "NY",
+  "country": "US"
+ },
+ {
+  "park.key": "NYC11",
+  "park.name": "Eastern Park",
+  "park.alias": "",
+  "city": "Brooklyn",
+  "state": "NY",
+  "country": "US"
+ },
+ {
+  "park.key": "NYC12",
+  "park.name": "Washington Park III",
+  "park.alias": "",
+  "city": "Brooklyn",
+  "state": "NY",
+  "country": "US"
+ },
+ {
+  "park.key": "NYC13",
+  "park.name": "Hilltop Park",
+  "park.alias": "",
+  "city": "New York",
+  "state": "NY",
+  "country": "US"
+ },
+ {
+  "park.key": "NYC14",
+  "park.name": "Polo Grounds V",
+  "park.alias": "",
+  "city": "New York",
+  "state": "NY",
+  "country": "US"
+ },
+ {
+  "park.key": "NYC15",
+  "park.name": "Ebbets Field",
+  "park.alias": "",
+  "city": "Brooklyn",
+  "state": "NY",
+  "country": "US"
+ },
+ {
+  "park.key": "NYC16",
+  "park.name": "Yankee Stadium I",
+  "park.alias": "",
+  "city": "New York",
+  "state": "NY",
+  "country": "US"
+ },
+ {
+  "park.key": "NYC17",
+  "park.name": "Shea Stadium",
+  "park.alias": "William A. Shea Stadium",
+  "city": "New York",
+  "state": "NY",
+  "country": "US"
+ },
+ {
+  "park.key": "NYC18",
+  "park.name": "Wallace's Ridgewood Park",
+  "park.alias": "Ridgewood Park II",
+  "city": "Queens",
+  "state": "NY",
+  "country": "US"
+ },
+ {
+  "park.key": "NYC19",
+  "park.name": "Washington Park IV",
+  "park.alias": "",
+  "city": "Brooklyn",
+  "state": "NY",
+  "country": "US"
+ },
+ {
+  "park.key": "NYC20",
+  "park.name": "Citi Field",
+  "park.alias": "",
+  "city": "New York",
+  "state": "NY",
+  "country": "US"
+ },
+ {
+  "park.key": "NYC21",
+  "park.name": "Yankee Stadium II",
+  "park.alias": "",
+  "city": "New York",
+  "state": "NY",
+  "country": "US"
+ },
+ {
+  "park.key": "OAK01",
+  "park.name": "Oakland-Alameda County Coliseum",
+  "park.alias": "Network Associates Coliseum",
+  "city": "Oakland",
+  "state": "CA",
+  "country": "US"
+ },
+ {
+  "park.key": "OMA01",
+  "park.name": "TD Ameritrade Park",
+  "park.alias": "",
+  "city": "Omaha",
+  "state": "NE",
+  "country": "US"
+ },
+ {
+  "park.key": "PEN01",
+  "park.name": "East End Park",
+  "park.alias": "Pendleton Park",
+  "city": "Cincinnati",
+  "state": "OH",
+  "country": "US"
+ },
+ {
+  "park.key": "PHI01",
+  "park.name": "Jefferson Street Grounds",
+  "park.alias": "Athletics Park",
+  "city": "Philadelphia",
+  "state": "PA",
+  "country": "US"
+ },
+ {
+  "park.key": "PHI02",
+  "park.name": "Centennial Park",
+  "park.alias": "",
+  "city": "Philadelphia",
+  "state": "PA",
+  "country": "US"
+ },
+ {
+  "park.key": "PHI03",
+  "park.name": "Oakdale Park",
+  "park.alias": "",
+  "city": "Philadelphia",
+  "state": "PA",
+  "country": "US"
+ },
+ {
+  "park.key": "PHI04",
+  "park.name": "Recreation Park",
+  "park.alias": "",
+  "city": "Philadelphia",
+  "state": "PA",
+  "country": "US"
+ },
+ {
+  "park.key": "PHI05",
+  "park.name": "Keystone Park",
+  "park.alias": "",
+  "city": "Philadelphia",
+  "state": "PA",
+  "country": "US"
+ },
+ {
+  "park.key": "PHI06",
+  "park.name": "Huntingdon Grounds I",
+  "park.alias": "",
+  "city": "Philadelphia",
+  "state": "PA",
+  "country": "US"
+ },
+ {
+  "park.key": "PHI07",
+  "park.name": "Forepaugh Park",
+  "park.alias": "",
+  "city": "Philadelphia",
+  "state": "PA",
+  "country": "US"
+ },
+ {
+  "park.key": "PHI08",
+  "park.name": "University of Penn. Athletic Field",
+  "park.alias": "",
+  "city": "Philadelphia",
+  "state": "PA",
+  "country": "US"
+ },
+ {
+  "park.key": "PHI09",
+  "park.name": "Baker Bowl",
+  "park.alias": "",
+  "city": "Philadelphia",
+  "state": "PA",
+  "country": "US"
+ },
+ {
+  "park.key": "PHI10",
+  "park.name": "Columbia Park",
+  "park.alias": "",
+  "city": "Philadelphia",
+  "state": "PA",
+  "country": "US"
+ },
+ {
+  "park.key": "PHI11",
+  "park.name": "Shibe Park",
+  "park.alias": "Connie Mack Stadium",
+  "city": "Philadelphia",
+  "state": "PA",
+  "country": "US"
+ },
+ {
+  "park.key": "PHI12",
+  "park.name": "Veterans Stadium",
+  "park.alias": "",
+  "city": "Philadelphia",
+  "state": "PA",
+  "country": "US"
+ },
+ {
+  "park.key": "PHI13",
+  "park.name": "Citizens Bank Park",
+  "park.alias": "",
+  "city": "Philadelphia",
+  "state": "PA",
+  "country": "US"
+ },
+ {
+  "park.key": "PHI14",
+  "park.name": "Huntingdon Grounds II",
+  "park.alias": "",
+  "city": "Philadelphia",
+  "state": "PA",
+  "country": "US"
+ },
+ {
+  "park.key": "PHO01",
+  "park.name": "Chase Field",
+  "park.alias": "Bank One Ballpark",
+  "city": "Phoenix",
+  "state": "AZ",
+  "country": "US"
+ },
+ {
+  "park.key": "PIT01",
+  "park.name": "Union Park",
+  "park.alias": "",
+  "city": "Pittsburgh",
+  "state": "PA",
+  "country": "US"
+ },
+ {
+  "park.key": "PIT02",
+  "park.name": "Exposition Park I",
+  "park.alias": "Lower Field",
+  "city": "Pittsburgh",
+  "state": "PA",
+  "country": "US"
+ },
+ {
+  "park.key": "PIT03",
+  "park.name": "Exposition Park II",
+  "park.alias": "Upper Field",
+  "city": "Pittsburgh",
+  "state": "PA",
+  "country": "US"
+ },
+ {
+  "park.key": "PIT04",
+  "park.name": "Recreation Park",
+  "park.alias": "",
+  "city": "Pittsburgh",
+  "state": "PA",
+  "country": "US"
+ },
+ {
+  "park.key": "PIT05",
+  "park.name": "Exposition Park III",
+  "park.alias": "",
+  "city": "Pittsburgh",
+  "state": "PA",
+  "country": "US"
+ },
+ {
+  "park.key": "PIT06",
+  "park.name": "Forbes Field",
+  "park.alias": "",
+  "city": "Pittsburgh",
+  "state": "PA",
+  "country": "US"
+ },
+ {
+  "park.key": "PIT07",
+  "park.name": "Three Rivers Stadium",
+  "park.alias": "",
+  "city": "Pittsburgh",
+  "state": "PA",
+  "country": "US"
+ },
+ {
+  "park.key": "PIT08",
+  "park.name": "PNC Park",
+  "park.alias": "",
+  "city": "Pittsburgh",
+  "state": "PA",
+  "country": "US"
+ },
+ {
+  "park.key": "PRO01",
+  "park.name": "Adelaide Avenue Grounds",
+  "park.alias": "",
+  "city": "Providence",
+  "state": "RI",
+  "country": "US"
+ },
+ {
+  "park.key": "PRO02",
+  "park.name": "Messer Street Grounds",
+  "park.alias": "",
+  "city": "Providence",
+  "state": "RI",
+  "country": "US"
+ },
+ {
+  "park.key": "RCK01",
+  "park.name": "Agricultural Society Fair Grounds",
+  "park.alias": "",
+  "city": "Rockford",
+  "state": "IL",
+  "country": "US"
+ },
+ {
+  "park.key": "RIC01",
+  "park.name": "Richmond Fair Grounds",
+  "park.alias": "",
+  "city": "Richmond",
+  "state": "VA",
+  "country": "US"
+ },
+ {
+  "park.key": "RIC02",
+  "park.name": "Allens Pasture",
+  "park.alias": "",
+  "city": "Richmond",
+  "state": "VA",
+  "country": "US"
+ },
+ {
+  "park.key": "ROC01",
+  "park.name": "Culver Field I",
+  "park.alias": "",
+  "city": "Rochester",
+  "state": "NY",
+  "country": "US"
+ },
+ {
+  "park.key": "ROC02",
+  "park.name": "Culver Field II",
+  "park.alias": "",
+  "city": "Rochester",
+  "state": "NY",
+  "country": "US"
+ },
+ {
+  "park.key": "ROC03",
+  "park.name": "Ontario Beach Grounds",
+  "park.alias": "",
+  "city": "Rochester",
+  "state": "NY",
+  "country": "US"
+ },
+ {
+  "park.key": "SAI01",
+  "park.name": "St. George Cricket Grounds",
+  "park.alias": "",
+  "city": "New York",
+  "state": "NY",
+  "country": "US"
+ },
+ {
+  "park.key": "SAN01",
+  "park.name": "Qualcomm Stadium",
+  "park.alias": "San Diego/Jack Murphy Stadium",
+  "city": "San Diego",
+  "state": "CA",
+  "country": "US"
+ },
+ {
+  "park.key": "SAN02",
+  "park.name": "PETCO Park",
+  "park.alias": "",
+  "city": "San Diego",
+  "state": "CA",
+  "country": "US"
+ },
+ {
+  "park.key": "SEA01",
+  "park.name": "Sick's Stadium",
+  "park.alias": "",
+  "city": "Seattle",
+  "state": "WA",
+  "country": "US"
+ },
+ {
+  "park.key": "SEA02",
+  "park.name": "Kingdome",
+  "park.alias": "",
+  "city": "Seattle",
+  "state": "WA",
+  "country": "US"
+ },
+ {
+  "park.key": "SEA03",
+  "park.name": "Safeco Field",
+  "park.alias": "T-Mobile Park",
+  "city": "Seattle",
+  "state": "WA",
+  "country": "US"
+ },
+ {
+  "park.key": "SFO01",
+  "park.name": "Seals Stadium",
+  "park.alias": "",
+  "city": "San Francisco",
+  "state": "CA",
+  "country": "US"
+ },
+ {
+  "park.key": "SFO02",
+  "park.name": "Candlestick Park",
+  "park.alias": "3Com Park",
+  "city": "San Francisco",
+  "state": "CA",
+  "country": "US"
+ },
+ {
+  "park.key": "SFO03",
+  "park.name": "AT&T Park",
+  "park.alias": "Pacific Bell Park; SBC Park",
+  "city": "San Francisco",
+  "state": "CA",
+  "country": "US"
+ },
+ {
+  "park.key": "SJU01",
+  "park.name": "Estadio Hiram Bithorn",
+  "park.alias": "",
+  "city": "San Juan",
+  "state": "",
+  "country": "PR"
+ },
+ {
+  "park.key": "SPR01",
+  "park.name": "Hampden Park Race Track",
+  "park.alias": "Springfield Track",
+  "city": "Springfield",
+  "state": "MA",
+  "country": "US"
+ },
+ {
+  "park.key": "STL01",
+  "park.name": "Red Stockings Base Ball Park",
+  "park.alias": "",
+  "city": "St. Louis",
+  "state": "MO",
+  "country": "US"
+ },
+ {
+  "park.key": "STL02",
+  "park.name": "Grand Avenue Park",
+  "park.alias": "",
+  "city": "St. Louis",
+  "state": "MO",
+  "country": "US"
+ },
+ {
+  "park.key": "STL03",
+  "park.name": "Sportsman's Park I",
+  "park.alias": "",
+  "city": "St. Louis",
+  "state": "MO",
+  "country": "US"
+ },
+ {
+  "park.key": "STL04",
+  "park.name": "Union Grounds",
+  "park.alias": "",
+  "city": "St. Louis",
+  "state": "MO",
+  "country": "US"
+ },
+ {
+  "park.key": "STL05",
+  "park.name": "Robison Field",
+  "park.alias": "",
+  "city": "St. Louis",
+  "state": "MO",
+  "country": "US"
+ },
+ {
+  "park.key": "STL06",
+  "park.name": "Sportsman's Park II",
+  "park.alias": "",
+  "city": "St. Louis",
+  "state": "MO",
+  "country": "US"
+ },
+ {
+  "park.key": "STL07",
+  "park.name": "Sportsman's Park III",
+  "park.alias": "Busch Stadium I",
+  "city": "St. Louis",
+  "state": "MO",
+  "country": "US"
+ },
+ {
+  "park.key": "STL08",
+  "park.name": "Handlan's Park",
+  "park.alias": "Federal League Park",
+  "city": "St. Louis",
+  "state": "MO",
+  "country": "US"
+ },
+ {
+  "park.key": "STL09",
+  "park.name": "Busch Stadium II",
+  "park.alias": "",
+  "city": "St. Louis",
+  "state": "MO",
+  "country": "US"
+ },
+ {
+  "park.key": "STL10",
+  "park.name": "Busch Stadium III",
+  "park.alias": "",
+  "city": "St. Louis",
+  "state": "MO",
+  "country": "US"
+ },
+ {
+  "park.key": "STP01",
+  "park.name": "Tropicana Field",
+  "park.alias": "",
+  "city": "St. Petersburg",
+  "state": "FL",
+  "country": "US"
+ },
+ {
+  "park.key": "SYD01",
+  "park.name": "Sydney Cricket Ground",
+  "park.alias": "",
+  "city": "Sydney",
+  "state": "New South Wales",
+  "country": "AU"
+ },
+ {
+  "park.key": "SYR01",
+  "park.name": "Star Park I",
+  "park.alias": "Newell Park",
+  "city": "Syracuse",
+  "state": "NY",
+  "country": "US"
+ },
+ {
+  "park.key": "SYR02",
+  "park.name": "Star Park II",
+  "park.alias": "",
+  "city": "Syracuse",
+  "state": "NY",
+  "country": "US"
+ },
+ {
+  "park.key": "SYR03",
+  "park.name": "Iron Pier",
+  "park.alias": "",
+  "city": "Syracuse",
+  "state": "NY",
+  "country": "US"
+ },
+ {
+  "park.key": "THR01",
+  "park.name": "Three Rivers Park",
+  "park.alias": "",
+  "city": "Three Rivers",
+  "state": "NY",
+  "country": "US"
+ },
+ {
+  "park.key": "TOK01",
+  "park.name": "Tokyo Dome",
+  "park.alias": "",
+  "city": "Tokyo",
+  "state": "Tokyo",
+  "country": "JP"
+ },
+ {
+  "park.key": "TOL01",
+  "park.name": "League Park",
+  "park.alias": "",
+  "city": "Toledo",
+  "state": "OH",
+  "country": "US"
+ },
+ {
+  "park.key": "TOL02",
+  "park.name": "Tri-State Fair Grounds",
+  "park.alias": "",
+  "city": "Toledo",
+  "state": "OH",
+  "country": "US"
+ },
+ {
+  "park.key": "TOL03",
+  "park.name": "Speranza Park",
+  "park.alias": "",
+  "city": "Toledo",
+  "state": "OH",
+  "country": "US"
+ },
+ {
+  "park.key": "TOL04",
+  "park.name": "Armory Park",
+  "park.alias": "",
+  "city": "Toledo",
+  "state": "OH",
+  "country": "US"
+ },
+ {
+  "park.key": "TOR01",
+  "park.name": "Exhibition Stadium",
+  "park.alias": "",
+  "city": "Toronto",
+  "state": "ON",
+  "country": "CA"
+ },
+ {
+  "park.key": "TOR02",
+  "park.name": "Rogers Centre",
+  "park.alias": "Skydome",
+  "city": "Toronto",
+  "state": "ON",
+  "country": "CA"
+ },
+ {
+  "park.key": "TRO01",
+  "park.name": "Haymakers' Grounds",
+  "park.alias": "",
+  "city": "Troy",
+  "state": "NY",
+  "country": "US"
+ },
+ {
+  "park.key": "TRO02",
+  "park.name": "Putnam Grounds",
+  "park.alias": "",
+  "city": "Troy",
+  "state": "NY",
+  "country": "US"
+ },
+ {
+  "park.key": "WAR01",
+  "park.name": "Rocky Point Park",
+  "park.alias": "",
+  "city": "Warwick",
+  "state": "RI",
+  "country": "US"
+ },
+ {
+  "park.key": "WAS01",
+  "park.name": "Olympic Grounds",
+  "park.alias": "",
+  "city": "Washington",
+  "state": "DC",
+  "country": "US"
+ },
+ {
+  "park.key": "WAS02",
+  "park.name": "National Grounds",
+  "park.alias": "",
+  "city": "Washington",
+  "state": "DC",
+  "country": "US"
+ },
+ {
+  "park.key": "WAS03",
+  "park.name": "Capitol Grounds",
+  "park.alias": "",
+  "city": "Washington",
+  "state": "DC",
+  "country": "US"
+ },
+ {
+  "park.key": "WAS04",
+  "park.name": "Athletic Park",
+  "park.alias": "",
+  "city": "Washington",
+  "state": "DC",
+  "country": "US"
+ },
+ {
+  "park.key": "WAS05",
+  "park.name": "Swampoodle Grounds",
+  "park.alias": "",
+  "city": "Washington",
+  "state": "DC",
+  "country": "US"
+ },
+ {
+  "park.key": "WAS06",
+  "park.name": "Boundary Field",
+  "park.alias": "",
+  "city": "Washington",
+  "state": "DC",
+  "country": "US"
+ },
+ {
+  "park.key": "WAS07",
+  "park.name": "American League Park I",
+  "park.alias": "",
+  "city": "Washington",
+  "state": "DC",
+  "country": "US"
+ },
+ {
+  "park.key": "WAS08",
+  "park.name": "American League Park II",
+  "park.alias": "",
+  "city": "Washington",
+  "state": "DC",
+  "country": "US"
+ },
+ {
+  "park.key": "WAS09",
+  "park.name": "Griffith Stadium",
+  "park.alias": "",
+  "city": "Washington",
+  "state": "DC",
+  "country": "US"
+ },
+ {
+  "park.key": "WAS10",
+  "park.name": "Robert F. Kennedy Stadium",
+  "park.alias": "D.C. Stadium",
+  "city": "Washington",
+  "state": "DC",
+  "country": "US"
+ },
+ {
+  "park.key": "WAS11",
+  "park.name": "Nationals Park",
+  "park.alias": "",
+  "city": "Washington",
+  "state": "DC",
+  "country": "US"
+ },
+ {
+  "park.key": "WAT01",
+  "park.name": "Troy Ball Club Grounds",
+  "park.alias": "",
+  "city": "Watervliet",
+  "state": "NY",
+  "country": "US"
+ },
+ {
+  "park.key": "WAV01",
+  "park.name": "Waverly Fairgrounds",
+  "park.alias": "",
+  "city": "Waverly",
+  "state": "NJ",
+  "country": "US"
+ },
+ {
+  "park.key": "WEE01",
+  "park.name": "Monitor Grounds",
+  "park.alias": "",
+  "city": "Weehawken",
+  "state": "NJ",
+  "country": "US"
+ },
+ {
+  "park.key": "WHE01",
+  "park.name": "Island Grounds",
+  "park.alias": "",
+  "city": "Wheeling",
+  "state": "WV",
+  "country": "US"
+ },
+ {
+  "park.key": "WIL01",
+  "park.name": "Union Street Park",
+  "park.alias": "",
+  "city": "Wilmington",
+  "state": "DE",
+  "country": "US"
+ },
+ {
+  "park.key": "WIL02",
+  "park.name": "BB&T Ballpark at Bowman Field",
+  "park.alias": "",
+  "city": "Williamsport",
+  "state": "PA",
+  "country": "US"
+ },
+ {
+  "park.key": "WNY01",
+  "park.name": "West New York Field Club Grounds",
+  "park.alias": "",
+  "city": "West New York",
+  "state": "NJ",
+  "country": "US"
+ },
+ {
+  "park.key": "WOR01",
+  "park.name": "Agricultural County Fair Grounds I",
+  "park.alias": "",
+  "city": "Worcester",
+  "state": "MA",
+  "country": "US"
+ },
+ {
+  "park.key": "WOR02",
+  "park.name": "Agricultural County Fair Grounds II",
+  "park.alias": "",
+  "city": "Worcester",
+  "state": "MA",
+  "country": "US"
+ },
+ {
+  "park.key": "WOR03",
+  "park.name": "Worcester Driving Park Grounds",
+  "park.alias": "",
+  "city": "Worcester",
+  "state": "MA",
+  "country": "US"
+ }
+]
